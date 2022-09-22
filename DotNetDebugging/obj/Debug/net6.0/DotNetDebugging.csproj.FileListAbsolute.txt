@@ -1,0 +1,15 @@
+C:\Dev\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.exe
+C:\Dev\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.deps.json
+C:\Dev\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.runtimeconfig.json
+C:\Dev\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.dll
+C:\Dev\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.pdb
+C:\Dev\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\Dev\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Dev\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.AssemblyInfo.cs
+C:\Dev\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Dev\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.dll
+C:\Dev\DotNetDebugging\obj\Debug\net6.0\refint\DotNetDebugging.dll
+C:\Dev\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.pdb
+C:\Dev\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.genruntimeconfig.cache
+C:\Dev\DotNetDebugging\obj\Debug\net6.0\ref\DotNetDebugging.dll
