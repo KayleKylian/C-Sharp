@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sf2NLn+lqu7KFrrndnSvPnjdNDwNZm8U4v/m33lMKjZuKaUxL1eJ+tzImBRUHGZFoFyEoOTbt+eZYTZ0Ei6m0Q==",
+  "dgSpecHash": "OIMZJUTkok9YrCPvh5X5019ql7BKUKd6t/YKB6BH2VfeekxwFaM/WDqsaEGkPyuW9YbIzI3e6aD6McTJDd0oyQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\DotNetDebugging\\DotNetDebugging.csproj",
+  "projectFilePath": "C:\\C-Sharp\\DotNetDebugging\\DotNetDebugging.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
