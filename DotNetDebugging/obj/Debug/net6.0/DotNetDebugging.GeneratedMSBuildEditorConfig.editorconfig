@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DotNetDebugging
-build_property.ProjectDir = C:\C-Sharp\DotNetDebugging\
+build_property.ProjectDir = /workspace/C-Sharp/DotNetDebugging/
