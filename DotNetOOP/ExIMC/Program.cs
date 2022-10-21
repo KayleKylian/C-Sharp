@@ -8,7 +8,7 @@ namespace ExIMC
         {
             Pessoa person = new Pessoa();
             person.altura = 1.60;
-            person.peso = 125.0;
+            person.peso = 60;
             person.mensagem();
         }
     }
