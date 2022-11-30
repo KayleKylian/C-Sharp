@@ -1,8 +1,3 @@
----
-title: Anotação de Estudo
-output: pdf_document
----
-
 # Anotações Gerais sobre C# e .NET
 
 ## Variáveis
